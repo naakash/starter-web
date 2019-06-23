@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> akash  <twitter>
+     akash
+     reddy.akash93@gmail.com
 
 # THANKS
 
